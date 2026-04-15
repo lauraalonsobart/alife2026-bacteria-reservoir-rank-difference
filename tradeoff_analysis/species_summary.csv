@@ -1,0 +1,7 @@
+model,final_accuracy,plateau_timepoint,plateau_accuracy,stability_reached
+iML1515_GX,0.9973,119,0.9984,True
+iMM904_GX,0.9924,113,0.9921,True
+iPC815_GX,0.6852,185,0.6813,True
+iYO844_GX,0.9991,157,0.9989,True
+iYS1720_GX,0.9947,105,0.9939,True
+iYS854_GX,0.9137,53,0.9148,True
